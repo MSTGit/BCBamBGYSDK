@@ -1,0 +1,6 @@
+framework module BCBamBGYSDK {
+  umbrella header "BCBamBGYSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

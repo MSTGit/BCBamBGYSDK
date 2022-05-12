@@ -1,0 +1,6 @@
+framework module Pods_BCBamBGYSDK_Example {
+  umbrella header "Pods-BCBamBGYSDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
