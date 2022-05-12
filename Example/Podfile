@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'BCBamBGYSDK_Example' do
+  pod 'BCBamBGYSDK', :path => '../'
+
+  target 'BCBamBGYSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
